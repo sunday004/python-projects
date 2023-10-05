@@ -1,4 +1,6 @@
-# Write your solution below the starter code
+# This is actually a rock-paper-scissors game
+
+#Write your solution below the starter code
 # Follow the instructions in the tab to the right
 from random import seed
 from random import randint
